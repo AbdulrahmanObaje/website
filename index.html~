@@ -1,10 +1,10 @@
- <!DOCTYPE html>
- 2 <html>
- 3   <head>
- 4     <title>My first Learn Enough GIT to be Dangerous Exercise</title>
- 5   </head>
- 6   <body>
- 7     <h1>hello, world</h1>
- 8     <p>Call me Ishmael.</p>
- 9   </body>
-10 </html>
+<!DOCTYPE html>
+ <html>
+   <head>
+     <title>My first Learn Enough GIT to be Dangerous Exercise</title>
+   </head>
+   <body>
+     <h1>hello, world</h1>
+     <p>Call me Ishmael.</p>
+   </body>
+</html>
